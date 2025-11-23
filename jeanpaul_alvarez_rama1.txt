@@ -1,1 +1,3 @@
 Este es el archivo rama1.
+Línea nueva 1 desde la rama.
+Línea nueva 2 desde la rama.
